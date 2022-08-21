@@ -1,12 +1,4 @@
-"UnPHP
-
- Find this useful? Enter your email to receive occasional updates for securing PHP code.
-Email AddressSubscribe
-PHP Decode
-<?php eval(str_rot13(gzinflate(str_rot13(gzinflate(base64_decode('AfZHCbjFvXZmIsmWIPq9f1K..
-
-Decoded Output download
-<?php ?><?php
+#/php
 /*   __________________________________________________
     |  SCRIPT BY NYI NYI -  Obfuscator  2.0.6   |
     |              on 2020-03-24 23:18:23              |
